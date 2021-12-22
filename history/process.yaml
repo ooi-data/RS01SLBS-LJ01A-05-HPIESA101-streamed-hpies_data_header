@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS01SLBS-LJ01A-05-HPIESA101-streamed-hpies_data_header
 data_stream: RS01SLBS-LJ01A-05-HPIESA101-streamed-hpies_data_header
 end_date: '2021-12-07T06:15:55.116Z'
-last_updated: '2021-12-22T04:12:05.799801Z'
+last_updated: '2021-12-22T04:15:07.786034'
 start_date: '2014-08-28T23:40:49.335Z'
-status: pending
+status: success
